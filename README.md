@@ -69,13 +69,13 @@
 ### 🔗 Portals to Other Realms
 <div align="center">
   <a href="https://linkedin.com/in/ujjwal-singh">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Realm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Realm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="mailto:ujjosing@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Scroll%20Messenger-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Scroll%20Messenger-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
   </a>
   <a href="https://github.com/fallofpheonix">
-    <img src="https://img.shields.io/badge/GitHub-Code%20Sanctum-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Code%20Sanctum-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </div>
 
