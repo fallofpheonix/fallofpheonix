@@ -92,7 +92,7 @@ const manifestReality = (vision, will) => {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Converge%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-singh-b42699289/)
-[[![Email](https://img.shields.io/badge/Email-Digital%20Scrolls-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjosing@gmail.com)]
+[![Email](https://img.shields.io/badge/Email-Digital%20Scrolls-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjosing@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Gallery%20of%20Fates-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 </div>
