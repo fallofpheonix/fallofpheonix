@@ -90,8 +90,8 @@ const createWithPurpose = (vision, passion) => {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Destiny-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Digital%20Scrolls-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Destiny-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ujjwal-singh-b42699289/)
+[![Email](https://img.shields.io/badge/Email-Digital%20Scrolls-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjosing@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Dream%20Gallery-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 </div>
