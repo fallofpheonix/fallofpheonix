@@ -85,7 +85,6 @@
   <p>
     <img src="https://visitcount.itsvg.in/api?id=fallofpheonix&icon=5&color=0&label=Ancient+Visitors" alt="Eternal Watchers" />
   </p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hjeHFwYTFzMDI3MnZ2dDV5M2U5bHdwMXZ3YzZ0OWZ0ZXR6aXVhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BkNIqYf04e1YmB2/giphy.gif" alt="Shadow Drip" />
 </div>
 
 ---
