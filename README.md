@@ -83,7 +83,7 @@
 
 <div align="center">
   <p>
-    <img src="https://visitcount.itsvg.in/api?id=fallofpheonix&icon=5&color=0&label=Ancient+Visitors" alt="Eternal Watchers" />
+    <img src="https://visitcount.itsvg.in/api?id=fallofpheonix&icon=0&color=0&label=Ancient+Visitors" alt="Eternal Watchers" />
   </p>
 </div>
 
