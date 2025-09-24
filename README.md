@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm14Z2k1Z2p4aDVxczE0b2QwcGJ5bDNtYzF2ajc0Z2I2MHRtdmR1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0O9zFpS5e6eQJ6/giphy.gif" alt="Dark Ethereal Magic" width="100%" />
-</div>
-
 <h1 align="center">🕯️ Ujjwal Singh: The Architect of Shadows 🕯️</h1>
 <h3 align="center">A silent force, weaving forgotten code into digital artifacts.</h3>
 
