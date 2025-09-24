@@ -1,81 +1,27 @@
-<div align="center">
+# 👋 Hi, I'm Ujjwal Singh
 
-# 👋 Hello, I'm [Your Name]
+**Software Developer** passionate about building amazing applications.
 
-**Full Stack Developer | Open Source Enthusiast | Tech Innovator**
+## 🛠️ Technologies
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
-
-</div>
-
-## 🛠️ Tech Stack
-
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### DevOps & Cloud
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+## 🌱 Currently Learning
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Ujjwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fallofpheonix&show_icons=true&theme=default)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+## 📫 How to reach me
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
-## 🚀 Featured Projects
-
-### 🔥 [Project Name](https://github.com/yourusername/project)
-Short description of your amazing project. Built with **Next.js, TypeScript, Tailwind CSS**.
-
-### 🎯 [Another Project](https://github.com/yourusername/another-project)
-Description of another cool project. Uses **Go, GraphQL, AWS**.
-
-### 💡 [Open Source Contribution](https://github.com/opensource/project)
-Your contribution to an open source project.
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- Your recent GitHub activity will appear here -->
-<!--END_SECTION:activity-->
-
-## 🎯 Currently Working On
-
-- 🔭 **Building**: [Current Project Description]
-- 🌱 **Learning**: Advanced System Design, Machine Learning
-- 👯 **Looking to collaborate on**: Open Source Projects
-- 💬 **Ask me about**: React, TypeScript, Backend Architecture
-
-## 📫 Let's Connect!
-
-- 📧 **Email**: your.email@domain.com
-- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-
-<div align="center">
-
-### 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
-
-</div>
+- 📧 Email: ujjosing@gmail.com
+- 💼 LinkedIn: [Ujjwal Singh](https://www.linkedin.com/in/ujjwal-singh-b42699289/)
+- 💻 GitHub: [fallofpheonix](https://github.com/fallofpheonix)
