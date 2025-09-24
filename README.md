@@ -14,7 +14,7 @@
 
 ## 🎭 **The Illusion of Limitations**
 
-<div align="center">
+<div align="left">
 
 > *"Reality is merely an illusion, albeit a very persistent one." - Albert Einstein*
 
