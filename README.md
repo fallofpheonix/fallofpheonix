@@ -62,9 +62,11 @@ Passionate developer focused on building practical solutions and continuous lear
 
 > *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." - Bill Gates*
 
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallofpheonix&show_icons=true&theme=default&hide_title=true)
+![Profile Views](https://komarev.com/ghpvc/?username=fallofpheonix&style=for-the-badge&color=0e75b6)
+![Followers](https://img.shields.io/github/followers/fallofpheonix?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/fallofpheonix?affiliations=OWNER&style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fallofpheonix&layout=compact&theme=default&hide_title=true)
+[View my repositories](https://github.com/fallofpheonix?tab=repositories) • [View contributions](https://github.com/fallofpheonix)
 
 </div>
 
