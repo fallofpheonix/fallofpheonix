@@ -1,58 +1,106 @@
-# Ujjwal Singh - Software Developer
-
-> *"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
-
-Passionate developer focused on building practical solutions and continuous learning.
-
 <div align="center">
 
-### Full Stack Developer | Problem Solver | Continuous Learner
+# Ujjwal Singh
 
-*"First, solve the problem. Then, write the code." - John Johnson*
+### Full-Stack Developer · React · Node.js · TypeScript
+
+*Building scalable web applications and clean APIs — from database to deployment.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-singh)
+[![Email](https://img.shields.io/badge/Email-ujjosing%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjosing@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-fallofpheonix-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fallofpheonix)
+![Profile Views](https://komarev.com/ghpvc/?username=fallofpheonix&style=for-the-badge&color=0e75b6&label=Profile+Views)
 
 </div>
 
 ---
 
+## 👋 About Me
+
+Passionate full-stack developer with hands-on experience building end-to-end web and mobile applications. I specialise in the JavaScript/TypeScript ecosystem across React frontends, Node.js APIs, and cross-platform mobile apps with Flutter. I care deeply about clean architecture, readable code, and solving problems that matter.
+
+- 🔭 Currently deepening expertise in **system design**, **TypeScript**, and **cloud infrastructure**
+- 🌱 Actively learning **AWS**, **Docker/Kubernetes**, and **CI/CD pipelines**
+- 📖 Reading: *Designing Data-Intensive Applications* · *Clean Code* · *System Design Interview*
+- 💬 Ask me about **React**, **REST API design**, or **full-stack project architecture**
+
+---
+
 ## 🛠 Technical Skills
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-> *"Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke*
-
-### **Frontend**
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-> *"Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs*
-
-### **Backend**
+### Backend & Mobile
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-> *"Simplicity is prerequisite for reliability." - Edsger W. Dijkstra*
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-> *"Without data, you're just another person with an opinion." - W. Edwards Deming*
-
-### **Tools**
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+
+### 🎓 Student Productivity Platform
+> Full-stack web application for academic workload management — deadline tracking, course organisation, and progress dashboards.
+
+**Architecture:** React SPA → Express REST API → MongoDB (document model for flexible course data) with JWT-based session auth.
+
+**Key features:** Deadline calendar view, coursework progress tracking, responsive UI for mobile and desktop.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+---
+
+### 🛒 E-commerce REST API
+> Production-ready backend API supporting a full e-commerce workflow — user auth, product catalogue, cart, and order lifecycle.
+
+**Architecture:** Layered Express.js service (routes → controllers → services → repository) with MySQL for relational product/order data. Stateless JWT authentication with refresh-token support.
+
+**Key features:** Role-based access control (admin/customer), paginated product search, order status management.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+---
+
+### 📱 Mobile Task Manager
+> Cross-platform productivity app for task management with real-time sync across devices.
+
+**Architecture:** Flutter front-end with BLoC state management, backed by Firebase Firestore for real-time data sync and Firebase Auth for user management.
+
+**Key features:** Offline-first task storage, priority labels, due-date reminders, multi-device sync.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ---
 
@@ -60,137 +108,41 @@ Passionate developer focused on building practical solutions and continuous lear
 
 <div align="center">
 
-> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." - Bill Gates*
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fallofpheonix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallofpheonix&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=fallofpheonix&style=for-the-badge&color=0e75b6)
-![Followers](https://img.shields.io/github/followers/fallofpheonix?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/fallofpheonix?affiliations=OWNER&style=for-the-badge)
-
-[View my repositories](https://github.com/fallofpheonix?tab=repositories) • [View contributions](https://github.com/fallofpheonix)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fallofpheonix&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 💼 Projects
+## 🎯 2026 Roadmap
 
-### **Student Productivity Platform**
-A full-stack application designed to help students manage their coursework and deadlines effectively.
-
-> *"Make it work, make it right, make it fast." - Kent Beck*
-
-**Tech Stack:** React, Node.js, MongoDB, Express
-
-### **E-commerce REST API**
-A robust backend API with authentication, product management, and order processing.
-
-> *"Simplicity is the soul of efficiency." - Austin Freeman*
-
-**Tech Stack:** Node.js, Express, MySQL, JWT
-
-### **Mobile Task Manager**
-Cross-platform mobile application for task management and productivity tracking.
-
-> *"Small daily improvements over time lead to stunning results." - Robin Sharma*
-
-**Tech Stack:** Flutter, Firebase
-
----
-
-## 📈 Current Focus
-
-- **Advanced React Patterns** and state management
-- **System Design** principles and architecture
-- **Database optimization** and query performance
-- **TypeScript** best practices and type systems
-
-> *"The function of good software is to make the complex appear simple." - Grady Booch*
-
----
-
-## 🌱 Learning Goals
-
-- **Cloud Technologies:** AWS, Docker, Kubernetes
-- **Machine Learning:** Python data science stack
-- **Mobile Development:** Advanced Flutter patterns
-- **DevOps:** CI/CD pipelines and automation
-
-> *"Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi*
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ujjwal-singh)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ujjosing@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/fallofpheonix)
-
-> *"The best way to predict the future is to invent it." - Alan Kay*
-
----
-
-## 🎯 2026 Objectives
-
-- [ ] Contribute more actively to open-source projects
-- [ ] Build and deploy 3 polished full-stack applications
-- [ ] Strengthen DSA and problem-solving consistency
-- [ ] Earn an AWS foundational certification
-- [ ] Improve code quality with deeper testing practices
-
-> *"Programming isn't about what you know; it's about what you can figure out." - Chris Pine*
-
----
-
-<div align="center">
-
-### *"Code is like humor. When you have to explain it, it's bad." - Cory House*
-
-Always building, always learning.
-
-</div>
+| Goal | Status |
+|---|---|
+| Contribute actively to open-source projects | 🔄 In progress |
+| Build and deploy 3 polished full-stack applications | 🔄 In progress |
+| Strengthen DSA and competitive problem-solving | 🔄 In progress |
+| Earn AWS Cloud Practitioner certification | 📅 Planned |
+| Deepen testing practices (unit, integration, e2e) | 📅 Planned |
+| Deploy containerised apps with Docker + CI/CD | 📅 Planned |
 
 ---
 
 ## 💡 Development Philosophy
 
-```python
-def write_code():
-    """
-    My approach to software development:
-    - Write code that humans can understand
-    - Solve real problems, not just technical challenges
-    - Learn from every bug and failure
-    - Collaborate and share knowledge
-    """
-    while True:
-        learn()
-        build()
-        improve()
-```
+I write code for humans first, machines second. Clean abstractions, clear naming, and thoughtful architecture matter more than clever one-liners. Every bug is a lesson; every refactor is an investment.
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler*
-
----
-
-## 📚 Currently Reading/Studying
-
-- **Clean Code** by Robert C. Martin
-- **Designing Data-Intensive Applications** by Martin Kleppmann
-- **System Design Interview** by Alex Xu
-- **The Pragmatic Programmer** by Andrew Hunt and David Thomas
-
-> *"The only way to go fast is to go well." - Robert C. Martin*
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler*
 
 ---
 
 <div align="center">
 
-*"The most important property of a program is whether it accomplishes the intention of its user." - C.A.R. Hoare*
-
 **Let's build something meaningful together.**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-singh)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjosing@gmail.com)
+
 </div>
-
----
-
-*Profile last updated: February 13, 2026*
