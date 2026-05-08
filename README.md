@@ -1,148 +1,115 @@
-<div align="center">
-
 # Ujjwal Singh
 
-### Full-Stack Developer · React · Node.js · TypeScript
+Systems, platform, backend, and applied AI engineering.
 
-*Building scalable web applications and clean APIs — from database to deployment.*
+I build domain-specific software systems: geospatial simulation, health data apps, scientific ML pipelines, deterministic language scoring, OCR/ASR tooling, urban intelligence backends, and developer tooling.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-singh)
-[![Email](https://img.shields.io/badge/Email-ujjosing%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjosing@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-fallofpheonix-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fallofpheonix)
-![Profile Views](https://komarev.com/ghpvc/?username=fallofpheonix&style=for-the-badge&color=0e75b6&label=Profile+Views)
+[LinkedIn](https://linkedin.com/in/ujjwal-singh) · [Email](mailto:ujjosing@gmail.com) · [GitHub](https://github.com/fallofpheonix)
 
-</div>
-
----
-
-## 👋 About Me
-
-Passionate full-stack developer with hands-on experience building end-to-end web and mobile applications. I specialise in the JavaScript/TypeScript ecosystem across React frontends, Node.js APIs, and cross-platform mobile apps with Flutter. I care deeply about clean architecture, readable code, and solving problems that matter.
-
-- 🔭 Currently deepening expertise in **system design**, **TypeScript**, and **cloud infrastructure**
-- 🌱 Actively learning **AWS**, **Docker/Kubernetes**, and **CI/CD pipelines**
-- 📖 Reading: *Designing Data-Intensive Applications* · *Clean Code* · *System Design Interview*
-- 💬 Ask me about **React**, **REST API design**, or **full-stack project architecture**
-
----
-
-## 🛠 Technical Skills
+## Core Skills Demonstrated Across Repositories
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- Python: ML/research pipelines, FastAPI services, CLIs, data processing, scientific computing.
+- TypeScript/JavaScript: NestJS backend systems, React/Vite apps, data engines, browser tooling.
+- Dart/Flutter: cross-platform mobile and health tracking applications.
+- Swift/iOS: native iOS app surfaces and platform integration work.
+- SQL: PostgreSQL schema design, migrations, indexing, materialized risk surfaces.
+- C: low-level sliding-window rate limiter core and benchmark harnesses.
+- Shell: CI validation, build scripts, migration runners, smoke-test automation.
 
-### Backend & Mobile
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### Backend and Platform Engineering
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- FastAPI, stdlib HTTP services, NestJS, Express-style service layering.
+- REST APIs, app factories, route modules, DTO/schema validation, health checks.
+- PostgreSQL, SQLite, Redis, JSONL/CSV event stores, migration-heavy backend design.
+- Docker, Docker Compose, GitHub Actions, CI matrices, smoke checks, lint/type/test gates.
+- Metrics endpoints, Prometheus client usage, structured run artifacts, operational runbooks.
+- Rate limiting, event ingestion, deterministic assignment, API gateway patterns.
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### AI, ML, Data, and Scientific Computing
 
----
+- PyTorch, TorchVision, CRNN/CTC OCR, ASR with faster-whisper, vector-field approximation.
+- Computer vision: plant classification, fragment reconstruction, art classification/retrieval.
+- Geospatial computing: raster/vector GIS, viewshed analysis, path tracing, GDAL/rasterio/geopandas.
+- Simulation: SIR/Gillespie epidemic modeling, particle collision simulation, urban traffic/digital twins.
+- NLP/text systems: deterministic scoring rubrics, ontology tagging, sentiment/mechanic extraction.
+- Retrieval/embedding workflows: CLIP-style retrieval, TF-IDF, cosine similarity, FAISS-oriented design.
 
-## 💼 Featured Projects
+### Frontend and Mobile
 
-### 🎓 Student Productivity Platform
-> Full-stack web application for academic workload management — deadline tracking, course organisation, and progress dashboards.
+- React, Vite, Three.js, D3, Zustand, dashboard/data visualization surfaces.
+- Flutter with local persistence, Riverpod/Provider patterns, Drift/SQLite.
+- Native iOS/Swift project structure and mobile client integration.
+- Static portfolio/web pages, browser-extension UI, game UI.
 
-**Architecture:** React SPA → Express REST API → MongoDB (document model for flexible course data) with JWT-based session auth.
+### Engineering Practices
 
-**Key features:** Deadline calendar view, coursework progress tracking, responsive UI for mobile and desktop.
+- Package-oriented Python layouts: `api`, `core`, `services`, `config`, `utils`, `tests`.
+- CLI-first research tooling with reproducible artifact directories.
+- Deterministic pipelines, audit logs, fixture-driven tests, benchmark scripts.
+- Repository hygiene: generated artifact exclusion, `.gitignore` baselines, dependency manifests.
+- Documentation as infrastructure: architecture docs, setup docs, API docs, runbooks, validation reports.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+## Repository Map
 
----
+### Primary Systems
 
-### 🛒 E-commerce REST API
-> Production-ready backend API supporting a full e-commerce workflow — user auth, product catalogue, cart, and order lifecycle.
+| Repository | Domain | Skills Demonstrated |
+|---|---|---|
+| [UDIE](https://github.com/fallofpheonix/UDIE) | Urban disruption intelligence platform | NestJS, PostgreSQL, Redis, migrations, metrics, Flutter/iOS clients, spatial/risk modeling, CI |
+| [LAMP](https://github.com/fallofpheonix/LAMP) | Archaeological geospatial modeling | Python, raster/vector GIS, GDAL, rasterio, geopandas, path tracing, viewsheds, Docker, tests |
+| [healingstone](https://github.com/fallofpheonix/healingstone) | 2D/3D fragment reconstruction | Python, geometry, Open3D/Torch runtime, deterministic artifacts, mypy/ruff/pytest CI |
+| [sira](https://github.com/fallofpheonix/sira) | Epidemic dynamics ML service | Gillespie simulation, neural vector fields, SINDy, FastAPI, PyTorch, regression tests |
+| [ParticleStimulator](https://github.com/fallofpheonix/ParticleStimulator) | Particle physics simulation platform | Monte Carlo simulation, WebSocket streaming, React/Three.js, ML event classification |
+| [LifeTrack](https://github.com/fallofpheonix/LifeTrack) | Health tracking mobile app | Flutter, Drift/SQLite, domain/data/presentation layering, health records, local-first storage |
+| [SmartAPILimiter](https://github.com/fallofpheonix/SmartAPILimiter) | Low-level rate limiter | C, sliding-window algorithms, bounded memory design, tests, microbenchmarks |
 
-**Architecture:** Layered Express.js service (routes → controllers → services → repository) with MySQL for relational product/order data. Stateless JWT authentication with refresh-token support.
+### Applied AI and Research Tooling
 
-**Key features:** Role-based access control (admin/customer), paginated product search, order status management.
+| Repository | Domain | Skills Demonstrated |
+|---|---|---|
+| [autoeit-suite](https://github.com/fallofpheonix/autoeit-suite) | Spanish EIT transcription and scoring suite | ASR, workbook processing, deterministic rubrics, package split, CLI/test structure |
+| [AutoEIT-STS](https://github.com/fallofpheonix/AutoEIT-STS) | Deterministic EIT scoring | Python packaging, pandas/openpyxl, audit logs, Streamlit/CLI interface |
+| [audio_transcription](https://github.com/fallofpheonix/audio_transcription) | Audio transcription pipeline | faster-whisper, alignment, workbook I/O, evaluation metrics |
+| [AutoTRandHD](https://github.com/fallofpheonix/AutoTRandHD) | Historical OCR/HTR | CRNN, CTC decoding, image preprocessing, FastAPI, Docker, benchmark scripts |
+| [ArtExtract](https://github.com/fallofpheonix/ArtExtract) | Art classification and retrieval | PyTorch, CLIP/FAISS-style retrieval, outlier detection, experiment scripts |
+| [ChoreoAI](https://github.com/fallofpheonix/ChoreoAI) | Multimodal motion research | PyTorch, transformers, motion embeddings, dataset validation, generative-model scaffolding |
+| [TerraHerb](https://github.com/fallofpheonix/TerraHerb) | Plant identification and knowledge retrieval | CV inference, MobileNet/EfficientNet, FastAPI, React, botanical API enrichment |
+| [AI-PFI](https://github.com/fallofpheonix/AI-PFI) | Funding opportunity intelligence | Web extraction, PDF parsing, ontology tagging, embeddings, normalized records |
+| [AI4MH](https://github.com/fallofpheonix/AI4MH) | Synthetic crisis signal monitoring | FastAPI, sentiment scoring, alert workflows, React dashboard, Docker Compose |
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+### Developer Tools, Security, and Experiments
 
----
+| Repository | Domain | Skills Demonstrated |
+|---|---|---|
+| [agentskill](https://github.com/fallofpheonix/agentskill) | Agentfile parser/generator toolchain | Python packaging, JSON schema, deterministic generation, CI/security validation |
+| [SecureForg](https://github.com/fallofpheonix/SecureForg) | Runtime exploit-behavior analyzer | Python execution harnesses, payload testing, AST analysis, security tooling |
+| [TrustLab](https://github.com/fallofpheonix/TrustLab) | Trust-calibration experiment platform | stdlib HTTP server, deterministic assignment, rate limiting, JSONL/SQLite event storage |
+| [Noesis](https://github.com/fallofpheonix/Noesis) | Research/scene compiler experiments | Pydantic schemas, compiler IR, planning/runtime abstractions, autonomous research prototypes |
+| [gametrend-intelligence-engine](https://github.com/fallofpheonix/gametrend-intelligence-engine) | Game trend analysis engine | TypeScript, collectors, TF-IDF, k-means, trend scoring, concept generation |
+| [cognitron-game](https://github.com/fallofpheonix/cognitron-game) | Standalone browser game | React/Vite, TypeScript game state, lightweight UI |
 
-### 📱 Mobile Task Manager
-> Cross-platform productivity app for task management with real-time sync across devices.
+### Web, Profile, and Supporting Repositories
 
-**Architecture:** Flutter front-end with BLoC state management, backed by Firebase Firestore for real-time data sync and Firebase Auth for user management.
-
-**Key features:** Offline-first task storage, priority labels, due-date reminders, multi-device sync.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fallofpheonix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallofpheonix&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fallofpheonix&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🎯 2026 Roadmap
-
-| Goal | Status |
+| Repository | Role |
 |---|---|
-| Contribute actively to open-source projects | 🔄 In progress |
-| Build and deploy 3 polished full-stack applications | 🔄 In progress |
-| Strengthen DSA and competitive problem-solving | 🔄 In progress |
-| Earn AWS Cloud Practitioner certification | 📅 Planned |
-| Deepen testing practices (unit, integration, e2e) | 📅 Planned |
-| Deploy containerised apps with Docker + CI/CD | 📅 Planned |
+| [my-portfolio](https://github.com/fallofpheonix/my-portfolio) | Static portfolio site |
+| [cv](https://github.com/fallofpheonix/cv) | Resume artifact |
+| [fallofpheonix](https://github.com/fallofpheonix/fallofpheonix) | GitHub profile README |
 
----
+## Technical Themes
 
-## 💡 Development Philosophy
+- Domain-first architecture over generic CRUD.
+- Deterministic pipelines where auditability matters.
+- Small service layers around core domain logic.
+- Reusable CLI and artifact contracts for research workflows.
+- Explicit tests and smoke checks before claiming production readiness.
+- Preference for simple deployable systems before distributed complexity.
 
-I write code for humans first, machines second. Clean abstractions, clear naming, and thoughtful architecture matter more than clever one-liners. Every bug is a lesson; every refactor is an investment.
+## Current Focus
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler*
-
----
-
-<div align="center">
-
-**Let's build something meaningful together.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-singh)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjosing@gmail.com)
-
-</div>
+- Consolidating repositories into a coherent engineering ecosystem.
+- Extracting shared runtime, pipeline, CI, documentation, and security conventions.
+- Promoting the strongest systems as capstone-grade repositories.
+- Reducing public noise from learning, generated, and duplicate repositories.
