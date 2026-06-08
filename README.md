@@ -9,7 +9,7 @@
 ---
 
 ### 🏮 Motivation & Code
-*"I'm not a hero because I want your approval. I'm a hero because I want to do what's right!"* — Izuku Midoriya (Deku)
+*"Power comes in response to a need, not a desire. You have to create that need."* — Son Goku
 
 - 💻 **CS Focus:** Systems architecture, high-performance computing, and algorithmic efficiency.
 - 🏯 **Anime Vibes:** Constant growth and breaking limits—treating every bug like a shonen villain.

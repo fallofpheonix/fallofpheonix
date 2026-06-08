@@ -26,10 +26,10 @@ jobs:
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_introduction_text: |
-            "Talk is cheap. Show me the code." — Linus Torvalds
-            "First, solve the problem. Then, write the code." — John Johnson
-            "The only way to go fast, is to go well." — Robert C. Martin
-            "If you don't like your destiny, don't accept it. Have the courage to change it!" — Naruto Uzumaki
+            "Power comes in response to a need, not a desire. You have to create that need." — Son Goku
+            "Even a low-class warrior can surpass an elite if he earns it through hard work." — Son Goku
+            "The limits only exist if you let them." — Son Goku
+            "Push through the pain. Giving up hurts more." — Son Goku
           
           # Anime Connection (AniList Plugin)
           plugin_anilist: yes
