@@ -15,5 +15,3 @@
 - 🏯 **Anime Vibes:** Constant growth and breaking limits—treating every bug like a shonen villain.
 - 🧠 **Logic:** "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 
----
-*This profile is automatically updated using [lowlighter/metrics](https://github.com/lowlighter/metrics)*
