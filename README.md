@@ -2,9 +2,7 @@
 
 > "The computer was born to solve problems that did not exist before." — Bill Gates
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fallofpheonix/fallofpheonix/main/github-metrics.svg" alt="Metrics" width="100%">
-</div>
+
 
 ---
 
